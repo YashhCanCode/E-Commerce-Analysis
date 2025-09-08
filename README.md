@@ -21,23 +21,27 @@ This dashboard provides insights into key e-commerce metrics including revenue t
 ### Top 5 States by Revenue
 - Bar chart showing top performing states.
 
-![Top 5 States](.png)
+![Top 5 States](Top_States.png)
 
 ### Payment Type Analysis
 - Number of orders per payment method.
 
-![Payment Type](payment_type_screenshot.png)
+![Payment Type](Payment_Type_Analysis.png)
 
 ### Delivery Performance
 - Average delivery days vs promised delivery.  
 - Percentage of late deliveries highlighted.
 
-![Delivery Performance](delivery_screenshot.png)
+![Delivery Performance](Delivery_Performance.png)
 
 ### Customer Growth Funnel
 - Shows new, repeat, and loyal customers.
 
-![Customer Funnel](customer_funnel_screenshot.png)
+![Customer Funnel](Customer_Funnel.png)
+
+### Dash-Board 
+
+![Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 - Tableau Desktop: Dashboard creation, calculated fields, filters, KPI cards  
