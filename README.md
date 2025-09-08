@@ -1,6 +1,5 @@
 # E-Commerce-Analysis
-
-Interactive Tableau dashboard analyzing sales, customer behavior, and delivery performance for the Olist dataset.
+# Interactive Tableau dashboard analyzing sales, customer behavior, and delivery performance for the Olist dataset.
 
 ## Overview
 This dashboard provides insights into key e-commerce metrics including revenue trends, top performing regions, customer payment preferences, delivery performance, and customer retention. Designed to showcase data analysis and visualization skills.
